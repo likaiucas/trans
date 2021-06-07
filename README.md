@@ -12,8 +12,8 @@
   ----val
   ----train_val
 
-<br> 配置环境：pytorch=1.7.1, cuda=10.1，torchvision=0.8.2 \<br>
-<br>硬件设备：\<br>
+<br> 配置环境：pytorch=1.7.1, cuda=10.1，torchvision=0.8.2 
+<br>硬件设备：
 <br>本地计算机gpu：Titan xp\<br>
 <br>服务器设备gpu：四张GTX 2080ti\<br>
 ## myfun文件夹
