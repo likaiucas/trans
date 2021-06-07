@@ -14,8 +14,8 @@
 
 <br> 配置环境：pytorch=1.7.1, cuda=10.1，torchvision=0.8.2 
 <br>硬件设备：
-<br>本地计算机gpu：Titan xp\<br>
-<br>服务器设备gpu：四张GTX 2080ti\<br>
+<br>本地计算机gpu：Titan xp
+<br>服务器设备gpu：四张GTX 2080ti
 ## myfun文件夹
 自行完成并设计算法，实现了存储数据内容，拼接局部影像的函数功能，如果目标数据为tiff需要转化为jpg或png格式，使用dataset_building.py, makedata2jpg.py, enviread.py进行操作。
 
