@@ -1,4 +1,5 @@
 # 毕业设计代码
+=======================
 若需要运行代码，下载文件夹并解压，选择进入train.py文件，使用写好的get_model函数导入模型，或直接通过修改train.py中的注释，运行所需模型。所使用的联合发布数据集可通过链接下载，https://tianchi.aliyun.com/competition/entrance/531860/information
 将数据以文件夹格式组织
 -data
